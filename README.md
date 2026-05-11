@@ -238,7 +238,7 @@ Este proyecto se distribuye bajo la licencia MIT. Consulte el archivo `LICENSE` 
 Universidad Politécnica Estatal del Carchi, Ecuador  
 
 **Yasmany Fernández-Fernández**  
-
+Universidad Politécnica Estatal del Carchi, Ecuador  
 ---
 
 ## Estado del repositorio
