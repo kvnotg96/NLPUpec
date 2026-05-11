@@ -236,9 +236,11 @@ Este proyecto se distribuye bajo la licencia MIT. Consulte el archivo `LICENSE` 
 
 **Kevin L. Ortega-Chávez**  
 Universidad Politécnica Estatal del Carchi, Ecuador  
+ORCID: 0009-0005-7811-6147
 
 **Yasmany Fernández-Fernández**  
 Universidad Politécnica Estatal del Carchi, Ecuador  
+ORCID: 0000-0002-9530-4028
 
 ---
 
