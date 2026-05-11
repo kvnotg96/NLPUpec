@@ -1,5 +1,12 @@
 # Entrenamiento eficiente en memoria de redes neuronales mediante programación no lineal
 
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Estado](https://img.shields.io/badge/estado-investigación%20científica-green)
+![Versión](https://img.shields.io/badge/versión-v1.0.0-orange)
+[![Repositorio](https://img.shields.io/badge/repositorio-GitHub-black)](https://github.com/kvnotg96/NLPUpec)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20128567.svg)](https://doi.org/10.5281/zenodo.20128567)
+
 Este repositorio contiene el código fuente, los scripts experimentales, las métricas numéricas, las figuras generadas y los archivos de reproducibilidad asociados al artículo científico **“Programación no lineal con restricciones enteras para el entrenamiento eficiente en memoria de redes neuronales”**.
 
 El estudio propone y evalúa un enfoque de optimización para el entrenamiento de redes neuronales artificiales orientado a reducir la complejidad paramétrica del modelo y mejorar su eficiencia en memoria, sin comprometer de forma significativa el desempeño predictivo. Para ello, se formula un esquema de optimización jerárquico que combina entrenamiento neuronal, regularización de pesos y ajuste de hiperparámetros mediante programación no lineal.
