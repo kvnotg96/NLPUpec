@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "Si utiliza este software, cite este repositorio usando la información bibliográfica indicada."
+type: software
+title: "Entrenamiento eficiente en memoria de redes neuronales mediante programación no lineal"
+abstract: "Código fuente y paquete de reproducibilidad asociado a un estudio sobre entrenamiento eficiente en memoria de redes neuronales mediante programación no lineal, regularización L2, optimización de hiperparámetros con L-BFGS-B y evaluación experimental sobre conjuntos de datos sintéticos de clasificación binaria."
+authors:
+  - family-names: "Ortega-Chávez"
+    given-names: "Kevin L."
+    affiliation: "Universidad Politécnica Estatal del Carchi"
+  - family-names: "Fernández-Fernández"
+    given-names: "Yasmany"
+version: "1.0.0"
+date-released: "2026-05-11"
+license: "MIT"
+repository-code: "https://github.com/kvnotg96/NLPUpec"
+url: "https://github.com/kvnotg96/NLPUpec"
+keywords:
+  - "redes neuronales"
+  - "entrenamiento eficiente en memoria"
+  - "programación no lineal"
+  - "optimización L-BFGS-B"
+  - "regularización L2"
+  - "perceptrón multicapa"
+  - "optimizador Adam"
+  - "optimización de hiperparámetros"
+  - "clasificación binaria"
+  - "reproducibilidad científica"
+  - "Python"
+preferred-citation:
+  type: software
+  title: "Entrenamiento eficiente en memoria de redes neuronales mediante programación no lineal"
+  authors:
+    - family-names: "Ortega-Chávez"
+      given-names: "Kevin L."
+      affiliation: "Universidad Politécnica Estatal del Carchi"
+    - family-names: "Fernández-Fernández"
+      given-names: "Yasmany"
+  version: "1.0.0"
+  date-released: "2026-05-11"
+  license: "MIT"
+  repository-code: "https://github.com/kvnotg96/NLPUpec"
