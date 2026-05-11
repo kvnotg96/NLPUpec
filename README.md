@@ -46,9 +46,7 @@ entrenamiento-eficiente-memoria-redes-neuronales/
 │   └── .gitkeep
 ├── article/
 │   └── article-kevin.tex
-└── docs/
-    ├── repository_metadata.md
-    └── reproducibility_notes.md
+
 ```
 
 ---
