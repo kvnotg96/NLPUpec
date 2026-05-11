@@ -42,10 +42,7 @@ entrenamiento-eficiente-memoria-redes-neuronales/
 │   └── run_experiments_portable.py
 ├── results/
 │   └── metrics.json
-├── figures/
-│   └── .gitkeep
-├── article/
-│   └── article-kevin.tex
+
 
 ```
 
